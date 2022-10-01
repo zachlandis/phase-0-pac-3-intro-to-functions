@@ -1,1 +1,3 @@
-// Follow along with the examples here
+function greeting(intro, firstName) {
+    console.log(${intro}, ${firstName})
+  }
